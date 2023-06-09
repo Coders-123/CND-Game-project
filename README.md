@@ -1,2 +1,2 @@
 # CND-Game-project
-First Person Shooter
+Zombie Survival First Person Shooter
